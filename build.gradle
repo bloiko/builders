@@ -7,6 +7,7 @@ project(":utils") {
     group = projectIds.group
     version = projectIds.version
     apply plugin: 'java'
+
     repositories {
         mavenCentral()
     }
@@ -71,5 +72,10 @@ project(":web") {
 //repositories {
 //    mavenCentral()
 //}
+
+
+
+// I can use this line for disabling jar generation, but it not works for me
+//jar.enabled = false
 
 
