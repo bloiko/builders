@@ -1,12 +1,14 @@
-1. Maven build
-mvn clean package
-   
-1.2 Maven test 
-mvn test
+## Maven
+1. Maven build  
+`mvn clean package`
 
-------------------------------------------------
-2. Gradle build
-gradle clean build
+2. Maven test  
+`mvn test`
 
-2.2 Gradle test
-gradle test
+---
+## Gradle
+1. Gradle build  
+`gradle clean build`
+
+2. Gradle test  
+`gradle test`
