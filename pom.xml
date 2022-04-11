@@ -13,7 +13,6 @@
         <module>services</module>
         <module>admin</module>
         <module>web</module>
-
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/junit/junit -->
